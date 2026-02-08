@@ -1,0 +1,8 @@
+{
+  "name": "netlify-plugin-content-freshness",
+  "version": "1.0.0",
+  "description": "Netlify build plugin that tracks content freshness, injects JSON-LD structured data, and adds visible review badges.",
+  "main": "index.js",
+  "keywords": ["netlify", "netlify-plugin", "freshness", "seo", "json-ld", "structured-data"],
+  "license": "MIT"
+}
